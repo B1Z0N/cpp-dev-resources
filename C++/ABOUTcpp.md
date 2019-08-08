@@ -40,7 +40,6 @@ If in doubt, read [this](http://www.bestprogramminglanguagefor.me/why-learn-c-pl
 - Desktop apps
 - Animation
 - Compilers, interpreters, virtual machines, databases
-
 - Operating systems
 - Drivers
 - Embedded
@@ -54,38 +53,26 @@ C++ is relatively hard to learn as the first programming language. Most of exper
 
 Here are suggestions of some PLs that are suitable choice as the first one:
 
--  [Python](https://www.python.org/) 
+-  [Python](https://www.python.org/)
   :heavy_plus_sign:
     - Lots of tutorials
     - Easily readable(very similar to [pseudo-code](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/))
     - Lots of libraries
     - Easy to find a job
-
   :heavy_minus_sign:
-
     - Language fragmentation and not backward compatible
-
       Currently there are  3 versions of python, and they are used by different people, so it is harder to support all them in your work. You must choose, moreover they are not backward compatible. This means that not all Python 2 code is valid in Python 3 for example.  
-
     - No true parallelism
-
     - Code should be intensively tested
-
-    It is a dynamically-typed language, which means that it allows a lot more scenarios to be interpreted without any errors, so you should write a lot of tests to assure yourself in right behavior of the program. 
-
+      It is a dynamically-typed language, which means that it allows a lot more scenarios to be interpreted without any errors, so you should write a lot of tests to assure yourself in right behavior of the program. 
   - Too opinionated for a general-purpose programming language
-
-    ​	One of the mottos of Python is(not precise quote):
-
+      One of the mottos of Python is(not precise quote):
     > There should be only one right way to do - the "Pythonic way"
-
     So while learning it is pretty easy, you are getting to "tuned" to the "Pythonic way".
-
   - Relatively hard to switch to another language
-
-    ​	Hard to stop thinking in the "Pythonic way".
-
-  Read more about Python [here](https://www.python.org/about/gettingstarted/). Read a lot to be high-qualified python developer.
+      Hard to stop thinking in the "Pythonic way".
+      
+  Read more about Python [here](https://www.python.org/about/gettingstarted/). **Read a lot to be high-qualified python developer.**
 
 - C
 
