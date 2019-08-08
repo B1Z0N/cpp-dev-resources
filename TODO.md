@@ -25,11 +25,10 @@
 5. Translate to russian( it's common language here, where i live)
 6. Check spelling in all files
 7. Check links in all files
-8. Add c
 9. Integrate CI
 10. Add contribution guidelines
 11. Add pull request template
-12. Code of conduct
+12. Add code of conduct
 13. Some bots for github(stalebot [???]) [???] 
 
 P. S. This repo is intended to cover, what was not covered in the university.
