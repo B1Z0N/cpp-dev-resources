@@ -198,6 +198,7 @@ There are a lot of other programming languages for beginners, so you should chec
   learn first depending on community opinions
   
 # Okay! What's next?
-If you are sure about the choice of C++, then start reading books/tutorials and writing code. Create [pet projects](https://en.wiktionary.org/wiki/pet_project). But you should be aware of the fact, that for creating pet projects in C++, you should have good imgaination.
+If you are sure about the choice of C++, then start reading books/tutorials and writing code. Create [pet projects](https://en.wiktionary.org/wiki/pet_project). But you should be aware of the fact, that for creating pet projects in C++, you should have good imgaination. 
 
-
+This repo could provide you with books/tutorials.
+So continue reading, go to the [C++ resources](futurelink) section. 
