@@ -139,8 +139,8 @@ Here are suggestions of some PLs that are suitable choice as the first one:
       arrays are not [first class](https://stackoverflow.com/questions/245192/what-are-first-class-objects) objects, 
       lack of support for [first class](https://stackoverflow.com/questions/245192/what-are-first-class-objects) strings.
    
- Despite all this cons, C is the language that seems to be in use for a long time, so you should check it out. 
- Books for this PL you could find in this repository, in the list of books for C++.
+  Despite all this cons, C is the language that seems to be in use for a long time, so you should check it out. 
+  Books for this PL you could find in this repository, in the list of books for C++.
  
 - Java
 
