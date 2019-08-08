@@ -26,8 +26,6 @@ This repository is intended to cover:
 4. Additionally you should find useful the tutorial of how to organize your project, how to structure it.
 
    You should check [it](futurelink) out, but beware that it uses tools from previous item.
-
--------
 -------
 ## Want to add something?
 1. Read the [**contribution guidelines**][contrib-guide]
@@ -40,8 +38,8 @@ guidelines][contrib-guide], so be sure to check them out.
 
 ### You disagree with what is written in this repo?
 
-Just [create a new issue](https://github.com/B1Z0N/cpp-dev-resources/issues/new) and I'll
-handle it from there :smile:
+Just [create a new issue](https://github.com/B1Z0N/cpp-dev-resources/issues/new) and I believe, that we'll find consensus 
+:wink:
 
 ## Maintainers
 
