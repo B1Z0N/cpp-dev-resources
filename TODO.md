@@ -1,5 +1,5 @@
 # TODO
-1. Complete top-level `README.md` with
+1. Complete top-level `README.md` with :white_check_mark:
   - order of learning some tools :white_check_mark:
   - references to internal markdown files :white_check_mark:
 2. Add markdown files for different tools with
@@ -30,5 +30,3 @@
 11. Add pull request template
 12. Add code of conduct
 13. Some bots for github(stalebot [???]) [???] 
-
-P. S. This repo is intended to cover, what was not covered in the university.
