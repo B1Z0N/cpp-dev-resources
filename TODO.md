@@ -21,8 +21,8 @@
   - some author thoughts
   - alternatives [ MAYBE ]
 3. Add resources to learn C++ itself [ ... ]
-4. Choose better name
-5. Choose suitable description
+4. Choose better name :white_check_mark:
+5. Choose suitable description :white_check_mark:
 6. Create site
 7. Translate to russian( it's common language here, where i live)
 
