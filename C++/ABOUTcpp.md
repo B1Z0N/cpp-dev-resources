@@ -16,21 +16,11 @@ As one bight mind of cppdev once said:
 >
 > (c) Scott Meyers
 
-## Author's thoughts
+## Pros
 
-I had two attempts of learning C++. First without any programming background. I used only procedural paradigm, even without a use of `std`. I didn't have a clue that i was doing something wrong. It was hard to read literature and I had a lack of motivation, since my programs was hard to [compile](https://en.wikipedia.org/wiki/Compiler)(create running programs)(yeah it was a total beginner level). So i stopped.
+## Cons
 
-Second attempt was when i already knew C and Python(also Assembler a bit). Moving to C++ PL(programming language) was much easier, and that's why: C helped in understanding of how PC works, Python helped in developing application logic.
-
-When talking about programming in general some topics are not covered at all in universities or in books about C++. And you must learn from real-world projects. Major part of this topics is about development tools. Linux environment knowledge helped a lot the second time. This topics you can find in this repository.
-
-### C++ suits for
-
-People that like challenges and people with enough background in programming. Also after learning of  C++ PL it is relatively easy to switch to another common programming language.
-
-If in doubt, read [this](http://www.bestprogramminglanguagefor.me/why-learn-c-plus-plus).
-
-### C++ is used in
+## C++ is used in
 
 - Games
 - Search engines
@@ -47,7 +37,21 @@ If in doubt, read [this](http://www.bestprogramminglanguagefor.me/why-learn-c-pl
 - Factories
 - and many others
 
-### First PL?
+# Author's thoughts
+
+I had two attempts of learning C++. First without any programming background. I used only procedural paradigm, even without a use of `std`. I didn't have a clue that i was doing something wrong. It was hard to read literature and I had a lack of motivation, since my programs was hard to [compile](https://en.wikipedia.org/wiki/Compiler)(create running programs)(yeah it was a total beginner level). So i stopped.
+
+Second attempt was when i already knew C and Python(also Assembler a bit). Moving to C++ PL(programming language) was much easier, and that's why: C helped in understanding of how PC works, Python helped in developing application logic.
+
+When talking about programming in general some topics are not covered at all in universities or in books about C++. And you must learn from real-world projects. Major part of this topics is about development tools. Linux environment knowledge helped a lot the second time. This topics you can find in this repository.
+
+## C++ suits for
+
+People that like challenges and people with enough background in programming. Also after learning of  C++ PL it is relatively easy to switch to another common programming language.
+
+If in doubt, read [this](http://www.bestprogramminglanguagefor.me/why-learn-c-plus-plus).
+
+# First PL?
 
 C++ is relatively hard to learn as the first programming language. Most of experienced C++ programmers had previous experience before learning C++. So maybe it is better to learn something else before C plus plus. 
 
@@ -142,7 +146,7 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   Despite all this cons, C is the language that seems to be in use for a long time, so you should check it out. 
   Books for this PL you could find in this repository, in the list of books for C++.
  
-- Java
+- [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 
   This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
   best to learn for beginners. For now just read [this](https://www.slant.co/options/112/~java-review).
@@ -157,7 +161,7 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   - c
 -->
 
-- JavaScript
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
   This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
   best to learn for beginners. For now just read [this](https://www.slant.co/options/111/~javascript-review).
@@ -172,7 +176,7 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   - c
 -->
 
-- C#
+- [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
   This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
   best to learn for beginners. For now just read [this](https://www.slant.co/options/115/~c-review).
@@ -188,9 +192,12 @@ Here are suggestions of some PLs that are suitable choice as the first one:
 -->
   
 There are a lot of other programming languages for beginners, so you should check this links:
-  - [index](https://www.tiobe.com/tiobe-index/) of programming language
-  - [site](http://www.bestprogramminglanguagefor.me/) that picks you a programming language
+  - [index](https://www.tiobe.com/tiobe-index/) of programming languages by popularity
+  - [site](http://www.bestprogramminglanguagefor.me/) that picks you a programming language depending on your needs
   - [rating](https://www.slant.co/topics/25/~best-programming-language-to-learn-first) of the best programming languages to
-  learn first
+  learn first depending on community opinions
+  
+# Okay! What's next?
+If you are sure about the choice of C++, then start reading books/tutorials and writing code. Create [pet projects](https://en.wiktionary.org/wiki/pet_project). But you should be aware of the fact, that for creating pet projects in C++, you should have good imgaination.
 
 
