@@ -38,7 +38,7 @@ guidelines][contrib-guide], so be sure to check them out.
 
 ### You disagree with what is written in this repo?
 
-Just [create a new issue](https://github.com/B1Z0N/cpp-dev-resources/issues/new) and I believe, that we'll find consensus 
+Just [create a new issue](https://github.com/B1Z0N/cpp-dev-resources/issues/new) and I believe, that we'll achieve consensus 
 :wink:
 (this is hidden reason for creating this repository)
 
