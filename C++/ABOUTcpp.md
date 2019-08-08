@@ -2,7 +2,7 @@
 
 Is a general-purpose programming language created by [Bjarne Stroustrup](http://www.stroustrup.com/). C++ was designed with a bias towards system programming and embedded. Generally it is used everywhere where needed maximal performance or minimal memory consumption. 
 
-So this means that C++ is about performance, it is a nice part. But you should understand that we must sacrifice something. And this sacrifice is simplicity. C++ is not simple as we wish it to be, even when you have enough experience there are something that will surprise you, because there are a lot of exceptions in rules, due to increased performance.
+So this means that C++ is about performance, it is a nice part. But you should understand that we must sacrifice something. And this sacrifice is simplicity. C++ is not simple as we wish it to be, even when you have enough experience there are something that will surprise you, because there are a lot of corner cases, due to increased performance.
 
 Other C++ feature is that it understands that "We are all adults here". And it won't stop you from shooting yourself in the leg. In other words, you are allowed to do a lot here, but you should be aware of what you are doing, it is your responsibility. 
 
@@ -86,16 +86,62 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   Read more about Python [here](https://www.python.org/about/gettingstarted/). **Read a lot** to be high-qualified python
   developer.
 
-- C
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
 
   :heavy_plus_sign:
 
-  - p
+  - Computer knowledge
+  
+      Writing in C helps to understand low level computer programming.
+      
+  - Industry standard
+  
+      Every experienced programmer at some point learns C, because it has huge code-base.
+      
+  - Easier to learn other languages
+  
+      All common modern PLs was developed on the basis of C. Their's syntax developed from C. Moreover, their's
+      compilers/interpreters likely to be written in C.
+      
+  - Simplicity
+  
+    C is simple with lesser rules than any other modern programming language.
 
   :heavy_minus_sign:
 
-  - c
-
+  - Language is full of corner cases and undefined behaviors
+      
+      [Undefined behavior](https://en.wikipedia.org/wiki/Undefined_behavior) in a program can cause unexpected results,
+      making it hard to
+      [debug](https://en.wikipedia.org/wiki/Debugging).
+     
+  - Long learning curve
+  
+      C will require you to learn concepts too advanced for most beginners. While the language compliments knowledge of
+      computer components very well, and gives a deeper understanding, it is also quite difficult to learn, and to use 
+      correctly, especially without aforementioned knowledge.
+      
+      This con includes subcons: 
+      requires [manual memory management](https://en.wikipedia.org/wiki/Manual_memory_management), 
+      [low-level PL](https://www.computerhope.com/jargon/l/lowlangu.htm).
+     
+  - Relatively hard to find a job
+  
+  - Old
+  
+      C programming language was developed between 1972-1973, so it can't be considered as a modern one. C lacks a large
+      majority of programming concepts that modern languages make use of today. The existing functionality of C makes use of
+      outdated and deprecated methodologies which can be of great annoyance to the modern day programmer.
+      
+      This con includes subcons like: 
+      [C structs](https://en.wikipedia.org/wiki/Struct_(C_programming_language)) are very weak and outdated,
+      weak limited [type safety](https://en.wikipedia.org/wiki/Type_safety),
+      arrays are not [first class](https://stackoverflow.com/questions/245192/what-are-first-class-objects) objects, 
+      lack of support for [first class](https://stackoverflow.com/questions/245192/what-are-first-class-objects) strings.
+   
+ Despite all this cons, C is the language that seems to be in use for a long time, so you should check it out. 
+ Books for this PL you could find in this repository, in the list of books for C++.
+ 
 - Java
 
   :heavy_plus_sign:
