@@ -1,4 +1,4 @@
-# :copyright::heavy_plus_sign::heavy_plus_sign:
+# C++
 
 Is a general-purpose programming language created by [Bjarne Stroustrup](http://www.stroustrup.com/). C++ was designed with a bias towards system programming and embedded. Generally it is used everywhere where needed maximal performance or minimal memory consumption. 
 
@@ -144,6 +144,10 @@ Here are suggestions of some PLs that are suitable choice as the first one:
  
 - Java
 
+  This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
+  best to learn for beginners. For now just read [this](https://www.slant.co/options/112/~java-review).
+
+<!--- Uncomment this, delete what is written down here, if you want to edit this part
   :heavy_plus_sign:
 
   - p
@@ -151,19 +155,14 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   :heavy_minus_sign:
 
   - c
-
-- C#
-
-  :heavy_plus_sign:
-
-  - p
-
-  :heavy_minus_sign:
-
-  - c
+-->
 
 - JavaScript
 
+  This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
+  best to learn for beginners. For now just read [this](https://www.slant.co/options/111/~javascript-review).
+
+<!--- Uncomment this, delete what is written up here in this section, if you want to edit this part.
   :heavy_plus_sign:
 
   - p
@@ -171,9 +170,14 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   :heavy_minus_sign:
 
   - c
+-->
 
-- Ruby
+- C#
 
+  This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
+  best to learn for beginners. For now just read [this](https://www.slant.co/options/115/~c-review).
+  
+<!--- Uncomment this, delete what is written up here in this section, if you want to edit this part.
   :heavy_plus_sign:
 
   - p
@@ -181,3 +185,12 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   :heavy_minus_sign:
 
   - c
+-->
+  
+There are a lot of other programming languages for beginners, so you should check this links:
+  - [index](https://www.tiobe.com/tiobe-index/) of programming language
+  - [site](http://www.bestprogramminglanguagefor.me/) that picks you a programming language
+  - [rating](https://www.slant.co/topics/25/~best-programming-language-to-learn-first) of the best programming languages to
+  learn first
+
+
