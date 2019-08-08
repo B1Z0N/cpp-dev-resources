@@ -55,23 +55,21 @@ C++ is relatively hard to learn as the first programming language. Most of exper
 Here are suggestions of some PLs that are suitable choice as the first one:
 
 -  [Python](https://www.python.org/) 
-
   :heavy_plus_sign:
-
-  - Lots of tutorials
-  - Easily readable(very similar to [pseudo-code](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/))
-  - Lots of libraries
-  - Easy to find a job
+    - Lots of tutorials
+    - Easily readable(very similar to [pseudo-code](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/))
+    - Lots of libraries
+    - Easy to find a job
 
   :heavy_minus_sign:
 
-  - Language fragmentation and not backward compatible
+    - Language fragmentation and not backward compatible
 
-    ​	Currently there are  3 versions of python, and they are used by different people, so it is harder to support all them in your work. You must choose, moreover they are not backward compatible. This means that not all Python 2 code is valid in Python 3 for example.  
+      Currently there are  3 versions of python, and they are used by different people, so it is harder to support all them in your work. You must choose, moreover they are not backward compatible. This means that not all Python 2 code is valid in Python 3 for example.  
 
-  - No true parallelism
+    - No true parallelism
 
-  - Code should be intensively tested
+    - Code should be intensively tested
 
     It is a dynamically-typed language, which means that it allows a lot more scenarios to be interpreted without any errors, so you should write a lot of tests to assure yourself in right behavior of the program. 
 
