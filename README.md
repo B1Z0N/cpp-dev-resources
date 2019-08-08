@@ -28,5 +28,27 @@ This repository is intended to cover:
    You should check [it](futurelink) out, but beware that it uses tools from previous item.
 
 -------
+-------
+## Want to add something?
+1. Read the [**contribution guidelines**][contrib-guide]
+2. **Fork** the repo.
+3. Create a **branch** and **add your tools/thoughts/references** (or other things that are appropriate for repository) that is not already in the repo.
+4. Submit a **pull request**
 
-P. S. Feel free to contribute and argue(it is hidden reason for creating this repository).
+You can find more details regarding the steps above in the [contribution
+guidelines][contrib-guide], so be sure to check them out.
+
+### You disagree with what is written in this repo?
+
+Just [create a new issue](https://github.com/B1Z0N/cpp-dev-resources/issues/new) and I'll
+handle it from there :smile:
+
+## Maintainers
+
+This repo is being actively maintained by [@B1Z0N](https://github.com/B1Z0N) 
+
+## License
+
+This project is licensed under the terms of the [MIT license](LICENSE.md).
+
+[contrib-guide]: futurelink
