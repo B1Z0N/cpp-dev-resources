@@ -14,7 +14,7 @@ proper practice will lead you to great developer skills.
       - [Templates](#templates)
       - [Concurrency](#concurrency)
     + [Advanced](#advanced)
-  * [Blogs/chanels/homepages](#blogschanelshomepages)
+  * [Blogs/chanels/homepages](#blogschannelshomepages)
   * [Guidelines](#guidelines)
   * [Websites](#websites)
     + [Similar resources](#similar-resources)
@@ -55,4 +55,44 @@ If you don't have enough time, just read first book, it would be enough for the 
 ### Specific topics
 Intermediate programmer should learn specific topics of the language(which are themselves quite deep) before moving on to
 advanced.
-#### T
+#### Templates
+Modern C++ is generic C++. So here is the good book about template programming:
+- C++ Templates: The Complete Guide - David Vandevoorde and Nicolai M. Josuttis
+#### Concurrency
+- C++ Concurrency in Action - Anthony Williams
+### Advanced
+When I become an advanced programmer, I'll complete this part.
+## Blogs/channels/homepages
+- [Herb Sutter's blog](https://herbsutter.com/)
+- [Personal homepage of C++ creator](http://www.stroustrup.com/)
+- [Scott Meyers' blog](http://scottmeyers.blogspot.com/)
+- [Anthony Williams' blog](justsoftwaresolutions.co.uk/blog/)
+- [Jonathan Boccara's blog](https://www.fluentcpp.com/)
+- [Jason Turner's yt channel](https://www.youtube.com/user/lefticus1)
+- [TheChernoProject yt channel](https://www.youtube.com/user/TheChernoProject)
+## Guidelines
+- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+
+    Very useful compilation of best practices using modern C++ by creators of the language.
+    
+- [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)
+## Websites
+- [C++ standard site](https://isocpp.org/)
+- [C++ online reference](http://cppreference.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+
+    Stack Overflow is a question and answer site for professional and enthusiast programmers. 
+    
+- [Quora](https://www.quora.com/)
+
+    Quora is an American question-and-answer website where questions are asked, answered, and edited by Internet users,
+    either factually, or in the form of opinions.
+    
+- [C++ subreddit](https://www.reddit.com/r/cpp_questions/)
+### Similar resources
+The best way to find desired information is to search the web. So here are some starter links:
+- [Definitive list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) of books at
+stackoverflow
+- [Repository](https://github.com/rigtorp/awesome-modern-cpp) with compilation of useful resources on C++
+# Okay! What's next?
+After learning at least basics of C++ you should start practicing actively, and soon you'll see the result. Start reading other repositories, reading code of others is a great experience, so do your best. And next paper aimed at helping you to find such repositories. But remember that during work code of others could be not so good as in the repos from next paper. Get ready and learn from [best ones](futurelink).
