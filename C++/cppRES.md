@@ -17,7 +17,8 @@ proper practice will lead you to great developer skills.
   * [Blogs/chanels/homepages](#blogschannelshomepages)
   * [Guidelines](#guidelines)
   * [Websites](#websites)
-    + [Similar resources](#similar-resources)
+  * [Similar resources](#similar-resources)
+- [Reading others code](#repositories)
 - [Okay! What's next?](#okay-whats-next)
     
 # C
@@ -89,10 +90,18 @@ When I become an advanced programmer, I'll complete this part.
     either factually, or in the form of opinions.
     
 - [C++ subreddit](https://www.reddit.com/r/cpp_questions/)
-### Similar resources
+## Similar resources
 The best way to find desired information is to search the web. So here are some starter links:
 - [Definitive list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) of books at
 stackoverflow
 - [Repository](https://github.com/rigtorp/awesome-modern-cpp) with compilation of useful resources on C++
+- [C++ cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
+
+After learning at least basics of C++ you should start practicing actively, and soon you'll see the result. Start reading other repositories, reading code of others is a great experience, so do your best. And next item aimed at helping you to find such repositories. But remember that during work, code of others could be not so good as in the repos from next item.
+
+# Repositories
+Reading others code is very important, but not so easy to start. So i sorted repos by complexity, so that you get used to it.
+## Beginner
+## Intermediate
+### Advanced
 # Okay! What's next?
-After learning at least basics of C++ you should start practicing actively, and soon you'll see the result. Start reading other repositories, reading code of others is a great experience, so do your best. And next paper aimed at helping you to find such repositories. But remember that during work code of others could be not so good as in the repos from next paper. Get ready and learn from [best ones](futurelink).
