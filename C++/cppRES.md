@@ -18,7 +18,7 @@ proper practice will lead you to great developer skills.
   * [Guidelines](#guidelines)
   * [Websites](#websites)
     + [Similar resources](#similar-resources)
-- [Okay! What's next?](#okay--what-s-next-)
+- [Okay! What's next?](#okay-whats-next)
     
 # C
 C is an important and initial subset of C++. It would be much better to learn it first, but you could of course skip this
