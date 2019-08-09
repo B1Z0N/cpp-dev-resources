@@ -2,6 +2,24 @@
 This section covers resources for learning C++ in general, and few specific topics of C++ programming. First of all you
 should understand that it is not complete list, and it never aimed to be complete. Just a compilation of books, that with
 proper practice will lead you to great developer skills.
+# Table of contents
+- [About](#about)
+- [C](#c)
+  * [Books](#books)
+- [C++](#c)
+  * [Books](#books-1)
+    + [Beginner](#beginner)
+    + [Intermediate](#intermediate)
+    + [Specific topics](#specific-topics)
+      - [Templates](#templates)
+      - [Concurrency](#concurrency)
+    + [Advanced](#advanced)
+  * [Blogs/chanels/homepages](#blogs-chanels-homepages)
+  * [Guidelines](#guidelines)
+  * [Websites](#websites)
+    + [Similar resources](#similar-resources)
+- [Okay! What's next?](#okay--what-s-next-)
+    
 # C
 C is an important and initial subset of C++. It would be much better to learn it first, but you could of course skip this
 part.
@@ -76,3 +94,5 @@ The best way to find desired information is to search the web. So here are some 
 - [Definitive list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) of books at
 stackoverflow
 - [Repository](https://github.com/rigtorp/awesome-modern-cpp) with compilation of useful resources on C++
+# Okay! What's next?
+After learning at least basics of C++ you should start practicing actively, and soon you'll see the result. Start reading other repositories, reading code of others is a great experience, so do your best. And next paper aimed at helping you to find such repositories. But remember that during work code of others could be not so good as in the repos from next paper. Get ready and learn from [best ones](futurelink).
