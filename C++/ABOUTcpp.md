@@ -16,9 +16,44 @@ As one bight mind of cppdev once said:
 >
 > (c) Scott Meyers
 
-## Pros
+## :heavy_plus_sign:
+- Huge language supports most everything
+- Teaches fundamental OOP
+- Compatibility with C
+- Excellent compiler optimization
+  
+    At the time of the program being translated to machine code, 
+    compiler does a big job of making it faster and shorter for you.
+    
+- Teaches low-level programming, but doesn't have as many pitfalls as C
+- Universal, portable, best complexity/efficiency trade-off
+## :heavy_minus_sign:
+- Module system is not great
 
-## Cons
+    C++ uses old `#include` system, inherited from C  
+    
+- Language is full of corner cases and undefined behaviors
+
+    [Undefined behavior](https://en.wikipedia.org/wiki/Undefined_behavior) in a program can cause unexpected results,
+    making it hard to [debug](https://en.wikipedia.org/wiki/Debugging).
+
+- Huge language gets in the way of learning
+
+    While learning something using C++, for example algorithms and data structures, you always need to think about
+    dozens of language aspects, for unexperienced programmers it quickly becomes annoying.
+
+- Retains nearly all bad habits of C
+
+  See C item in this down here for detail.
+  
+- Tough to learn as the first language
+- Memory bugs are hard to find
+
+    It uses [manual memory management](https://en.wikipedia.org/wiki/Manual_memory_management), just like C.
+  
+- Painfully slow compilation
+
+    While optimizier does a big job, it costs in time of compilation.
 
 ## C++ is used in
 
