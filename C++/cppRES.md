@@ -100,8 +100,12 @@ stackoverflow
 After learning at least basics of C++ you should start practicing actively, and soon you'll see the result. Start reading other repositories, reading code of others is a great experience, so do your best. And next item aimed at helping you to find such repositories. But remember that during work, code of others could be not so good as in the repos from next item.
 
 # Repositories
-Reading others code is very important, but not so easy to start. So i sorted repos by complexity, so that you get used to it.
+Reading others code is very important, but not so easy to start. So I sorted repos by complexity, so that you get used to it.
 ## Beginner
+- [Algorithms and data structures](https://github.com/faheel/Algos)
+- 
 ## Intermediate
+- [Guidlines support library](https://github.com/microsoft/GSL)
+-
 ### Advanced
 # Okay! What's next?
