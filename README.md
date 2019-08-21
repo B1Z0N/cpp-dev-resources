@@ -19,9 +19,9 @@ This repository is intended to cover:
 
 1. If you are a **beginner** in programming, or **in doubt** about learning C++, check [this](C++/ABOUTcpp.md) out.
 
-2. If you just want to learn from masters, then [here](futurelink) are **THE LIST OF C++ RESOURCES**.
+2. If you just want to learn from masters, then [here](/C++/cppRES.md) are **THE LIST OF C++ RESOURCES**.
 
-3. And finally, if you have some background in cppdev and you want to enhance the ability to organize your project, speed up development, learn best development process practices. You should definitely look in [here](futurelink), because this is **THE LIST OF USEFUL C++ TOOLS RESOURCES**.
+3. And finally, if you have some background in cppdev and you want to enhance the ability to organize your project, speed up development, learn best development process practices. You should definitely look in [here](LIST.md), because this is **THE LIST OF USEFUL C++ TOOLS RESOURCES**.
 
 4. Additionally you should find useful the tutorial of how to organize your project, how to structure it.
 
