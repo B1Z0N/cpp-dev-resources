@@ -1,31 +1,41 @@
+# List
 This is the list of programs and tools for C++ development, 
 that i've found very useful
 
-Not sorted in any order(todo) and not categorized(todo too)
+Not sorted in any order(todo) and not linked to appropriate resource files(todo).
 
-# List
-
+## Build
+- make :white_check_mark:
+- cmake :white_check_mark:
+## Code Analysis and Formatting
+- clang-tidy :white_check_mark:
+- clang-format :white_check_mark:
+- cpplint.py
+## Compilers
+- clang
 - GCC
+## Editors and IDEs
 - Sublime Text
 - CLion
 - VS
 - VS code
+- QT creator
+- vim
+## Debuggers and Profilers
 - GDB
 - valgrind
-- cpplint.py
+## Testing
+- Google Test
 - catch
-- make
-- vim
+## docs
+- doxygen 
+## etc
 - cscope
 - Coverity
-- clang
 - Coveralls
 - LCOV
 - AFL
 - strace
 - objdump
 - perf
-- Google Test
-- Qt
 - some of CI
-- doxygen 
