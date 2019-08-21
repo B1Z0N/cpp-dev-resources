@@ -1,6 +1,6 @@
 # [ClangTidy](https://clang.llvm.org/extra/clang-tidy/)
 
-is a is a [clang](https://clang.llvm.org/)-based C++ “[linter](https://en.wikipedia.org/wiki/Lint_(software))” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis). **clang-tidy** is modular and provides a convenient interface for writing new checks.
+is a [clang](https://clang.llvm.org/)-based C++ “[linter](https://en.wikipedia.org/wiki/Lint_(software))” tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis). **clang-tidy** is modular and provides a convenient interface for writing new checks.
 
 # Resources
 
