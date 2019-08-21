@@ -8,5 +8,9 @@ When project is simple you can manually enter commands for few files to compile 
 
 1. Very useful and descriptive introduction [tutorial](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
 2. [Tutorial](https://makefiletutorial.com/) that covers most used functionality 
-3. [Cheat-sheet](https://gist.github.com/evertrol/4b6fd05f3b6be2b331c60638b1af7101) to recap material
+3. [Compiling, Linking and Building C++ applications](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
+4. [Cheat-sheet](https://gist.github.com/evertrol/4b6fd05f3b6be2b331c60638b1af7101) to recap material
 
+# Projects 
+
+Using make is a common practice even in small projects. But nowadays **`Makefile`**s are being generated automatically with CMake. So you can check CMake section [here](CMake.md).

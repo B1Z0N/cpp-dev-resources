@@ -1,41 +1,70 @@
 # List
 This is the list of programs and tools for C++ development, 
-that i've found very useful
-
-Not sorted in any order(todo) and not linked to appropriate resource files(todo).
+that i've found useful.
 
 ## Build
-- make :white_check_mark:
-- cmake :white_check_mark:
+
+### [Preface](build/README.md)
+
+- [cmake](build/CMake.md) :white_check_mark:
+- [make](build/make.md) :white_check_mark:
+
 ## Code Analysis and Formatting
-- clang-tidy :white_check_mark:
-- clang-format :white_check_mark:
+
+### [Preface](code-analysis/README.md)
+
+- [clang-format](code-analysis/clang-format.md) :white_check_mark:
+- [clang-tidy](code-analysis/clang-tidy.md) :white_check_mark:
 - cpplint.py
+
 ## Compilers
-- clang
+
+### [Preface](compilers/README.md)
+
 - GCC
+- clang
+
 ## Editors and IDEs
-- Sublime Text
+
+### [Preface](editors-and-ides/README.md)
+
 - CLion
+- QT creator
+- Sublime Text
+- vim
 - VS
 - VS code
-- QT creator
-- vim
+
 ## Debuggers and Profilers
+
+### [Preface](debug/README.md)
+
 - GDB
 - valgrind
+
 ## Testing
-- Google Test
+
+### [Preface](testing/README.md)
+
 - catch
-## docs
+- Google Test
+
+## Docs
+
+### [Preface](docs/README.md)
+
 - doxygen 
-## etc
-- cscope
+
+## Etc
+
+### [Preface](etc/README.md)
+
+- AFL
 - Coverity
 - Coveralls
+- cscope
 - LCOV
-- AFL
-- strace
 - objdump
 - perf
+- strace
 - some of CI
