@@ -9,13 +9,20 @@ that i've found useful.
 - [cmake](build/CMake.md) :white_check_mark:
 - [make](build/make.md) :white_check_mark:
 
-## Code Analysis and Formatting
+## Static Code Analysis and Formatting
 
-### [Preface](code-analysis/README.md)
+### [Preface](static-analysis/README.md)
 
-- [clang-format](code-analysis/clang-format.md) :white_check_mark:
-- [clang-tidy](code-analysis/clang-tidy.md) :white_check_mark:
+- [clang-format](static-analysis/clang-format.md) :white_check_mark:
+- [clang-tidy](static-analysis/clang-tidy.md) :white_check_mark:
 - cpplint.py
+
+## Dynamic Code Analysis and Debuggers
+
+### [Preface](dynamic-analysis/README.md)
+
+- GDB
+- [valgrind](dynamic-analysis/valgrind.md) :white_check_mark:
 
 ## Compilers
 
@@ -34,13 +41,6 @@ that i've found useful.
 - vim
 - VS
 - VS code
-
-## Debuggers and Profilers
-
-### [Preface](debug/README.md)
-
-- GDB
-- valgrind
 
 ## Testing
 
