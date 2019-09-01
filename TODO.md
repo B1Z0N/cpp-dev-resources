@@ -29,3 +29,4 @@
 12. Add code of conduct
 13. Some bots for github(stalebot)
 13. Popularize it(send to some sites-collections of repositories, SEO?)
+14. Crosslinks

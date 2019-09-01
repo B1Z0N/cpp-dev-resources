@@ -68,3 +68,5 @@ that i've found useful.
 - perf
 - strace
 - some of CI
+- git
+- github
