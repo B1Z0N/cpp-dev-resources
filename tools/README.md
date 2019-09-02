@@ -23,6 +23,7 @@ that i've found useful.
 
 - GDB
 - [valgrind](dynamic-analysis/valgrind.md) :white_check_mark:
+- [cachegrind](dynamic-analysis/cachegrind.md) :white_check_mark:
 
 ## Compilers
 
