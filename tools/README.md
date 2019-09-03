@@ -16,7 +16,7 @@ that i've found useful.
 - [clang-format](static-analysis/clang-format.md) :white_check_mark:
 - [clang-tidy](static-analysis/clang-tidy.md) :white_check_mark:
 - Coverity
-- Cppcheck
+- [Cppcheck](static-analysis/cppcheck.md) :white_check_mark:
 
 ## Dynamic Code Analysis and Debuggers
 
