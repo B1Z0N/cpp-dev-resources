@@ -15,7 +15,8 @@ that i've found useful.
 
 - [clang-format](static-analysis/clang-format.md) :white_check_mark:
 - [clang-tidy](static-analysis/clang-tidy.md) :white_check_mark:
-- cpplint.py
+- Coverity
+- Cppcheck
 
 ## Dynamic Code Analysis and Debuggers
 
@@ -61,7 +62,6 @@ that i've found useful.
 ### [Preface](etc/README.md)
 
 - AFL
-- Coverity
 - Coveralls
 - cscope
 - LCOV
