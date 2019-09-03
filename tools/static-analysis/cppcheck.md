@@ -6,3 +6,5 @@ only real errors in the code (i.e. have very few false positives).
 1. Very simple and eays-to-read full-detail [manual](http://cppcheck.sourceforge.net/)
 2. Official github [repo](https://github.com/danmar/cppcheck)
 3. Some [other articles](https://sourceforge.net/projects/cppcheck/files/Articles/)
+# Bonus
+[Here](https://stackoverflow.com/questions/22486573/cppcheck-std-cfg-not-found-error-when-std-cfg-file-is-available) is the fix of `Failed to load library configuration file 'std.cfg'. File not found` error.
