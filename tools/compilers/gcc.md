@@ -5,6 +5,7 @@ is a compiler system produced by the GNU Project supporting various programming 
 # Resources
 
 1. Useful [guide](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)(1st part)
-2. [Cheat-sheet](https://lzone.de/cheat-sheet/GCC)
-3. Detailed [cheat-sheet](https://www.thegeekstuff.com/2012/10/gcc-compiler-options/)
-4. Some other [useful flags](https://stackoverflow.com/questions/3375697/useful-gcc-flags-for-c)
+2. Detailed [cheat-sheet](https://caiorss.github.io/C-Cpp-Notes/compiler-flags-options.html)
+3. [Cheat-sheet](https://www.thegeekstuff.com/2012/10/gcc-compiler-options/) with examples
+4. Optimistaion [flags](https://www.rapidtables.com/code/linux/gcc/gcc-o.html)
+5. Some other [useful flags](https://stackoverflow.com/questions/3375697/useful-gcc-flags-for-c)
