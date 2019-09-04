@@ -30,7 +30,7 @@ that i've found useful.
 
 ### [Preface](compilers/README.md)
 
-- GCC
+- [GCC](compilers/gcc.md)
 - clang
 
 ## Editors and IDEs
