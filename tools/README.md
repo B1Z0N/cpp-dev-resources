@@ -22,7 +22,7 @@ that i've found useful.
 
 ### [Preface](dynamic-analysis/README.md)
 
-- GDB
+- [GDB](dynamic-analysis/gdb.md) :white_check_mark:
 - [valgrind](dynamic-analysis/valgrind.md) :white_check_mark:
 - [cachegrind](dynamic-analysis/cachegrind.md) :white_check_mark:
 
