@@ -55,7 +55,7 @@ that i've found useful.
 
 ### [Preface](docs/README.md)
 
-- [doxygen](documenting/doxygen.md) :white_check_mark: 
+- [doxygen](docs/doxygen.md) :white_check_mark: 
 
 ## Etc
 
