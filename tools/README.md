@@ -30,8 +30,8 @@ that i've found useful.
 
 ### [Preface](compilers/README.md)
 
-- [GCC](compilers/gcc.md)
-- [clang](compilers/clang.md)
+- [GCC](compilers/gcc.md) :white_check_mark:
+- [clang](compilers/clang.md) :white_check_mark:
 
 ## Editors and IDEs
 
