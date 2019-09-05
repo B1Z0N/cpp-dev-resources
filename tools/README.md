@@ -35,14 +35,14 @@ that i've found useful.
 
 ## Editors and IDEs
 
-### [Preface](editors-and-ides/README.md)
+### [Preface](editors-ides/README.md)
 
 - CLion
 - QT creator
-- Sublime Text
-- vim
+- [Sublime Text](editors-ides/sublime.md) :white_check_mark:
+- [vim](editors-ides/vim.md) :white_check_mark:
 - VS
-- VS code
+- [VS code](editors-ides/vscode.md) :white_check_mark:
 
 ## Testing
 

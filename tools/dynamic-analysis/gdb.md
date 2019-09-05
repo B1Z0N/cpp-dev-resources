@@ -1,5 +1,6 @@
 # [GDB](https://www.gnu.org/software/gdb/)
-is the GNU Project debugger. Allows you to see what is going on `inside' another program while it executes -- or what another program was doing at the moment it crashed.
+
+is the GNU Project debugger. Allows you to see what is going on "inside" another program while it executes -- or what another program was doing at the moment it crashed.
 
 # Resources
 
