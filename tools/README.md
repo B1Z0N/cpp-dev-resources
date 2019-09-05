@@ -31,7 +31,7 @@ that i've found useful.
 ### [Preface](compilers/README.md)
 
 - [GCC](compilers/gcc.md)
-- clang
+- [clang](compilers/clang.md)
 
 ## Editors and IDEs
 
