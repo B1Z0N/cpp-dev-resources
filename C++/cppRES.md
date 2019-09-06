@@ -98,4 +98,4 @@ stackoverflow
 - [C++ cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
 
 # Okay! What's next?
-When you learned some C++ it is time to go and get some real-world experience. Here comes the [list of repositories](cppREPOS.md) to contribute to.
+When you learned some C++ it is time to go and get some real-world experience. Here comes the [list of repositories](cppREPOS.md) to contribute to. Or if you want to, start learning [C++ dev tools](../tools/README.md)
