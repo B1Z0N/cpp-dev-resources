@@ -6,8 +6,7 @@
 
 - [ ] Read the [contribution guidelines][contrib-guidelines]
 - [ ] Openned an [issue][new-issue]
-<!-- Remove this if your PR is not about tools -->
-- [ ] Updated the [tools list][tools-list]
+- [ ] Updated the [tools list][tools-list] <!-- Remove this if your PR is not about tools -->
 
 
 <!-- If this PR closes an existing issue, write "Closes #123" in the next line,
