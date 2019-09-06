@@ -46,9 +46,11 @@ Just [create a new issue](https://github.com/B1Z0N/cpp-dev-resources/issues/new)
 ## Maintainers
 
 This repo is being actively maintained by [@B1Z0N](https://github.com/B1Z0N) 
+We have [code of conduct][code-of-conduct]
 
 ## License
 
 This project is licensed under the terms of the [MIT license](LICENSE.md).
 
-[contrib-guide]: futurelink
+[contrib-guide]: .github/CONTRIBUTING.md
+[code-of-conduct]: .github/CODE_OF_CONDUCT.md
