@@ -97,15 +97,5 @@ stackoverflow
 - [Repository](https://github.com/rigtorp/awesome-modern-cpp) with compilation of useful resources on C++
 - [C++ cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
 
-After learning at least basics of C++ you should start practicing actively, and soon you'll see the result. Start reading other repositories, reading code of others is a great experience, so do your best. And next item aimed at helping you to find such repositories. But remember that during work, code of others could be not so good as in the repos from next item.
-
-# Repositories
-Reading others code is very important, but not so easy to start. So I sorted repos by complexity, so that you get used to it.
-## Beginner
-- [Algorithms and data structures](https://github.com/faheel/Algos)
-- 
-## Intermediate
-- [Guidlines support library](https://github.com/microsoft/GSL)
--
-### Advanced
 # Okay! What's next?
+When you learned some C++ it is time to go and get some real-world experience. Here comes the [list of repositories](cppREPOS.md) to contribute to.
