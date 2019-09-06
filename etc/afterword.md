@@ -1,6 +1,6 @@
 # Afterword
 
-Way of C++ developer is not ordinary programmer way at all. This is one of rare programming languages aimed at performance and elegance but popular at the same time. So during reading of this repository you've learned a lot about C++, and ready to go and get a solid job in this field.  Or if you want, you can just start your project, I call this `The art of programming`. Or you could do something else. The choice is yours.
+Way of C++ developer is not an ordinary programmer way at all. This is one of rare programming languages aimed at performance and elegance but popular at the same time. So during reading of this repository you've learned a lot about C++, and ready to go and get a solid job in this field.  Or if you want, you can just start your project, I call this `The art of programming`. Or you could do something else. The choice is yours.
 
 
 
