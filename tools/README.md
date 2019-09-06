@@ -71,3 +71,5 @@ that i've found useful.
 - some of CI
 - git
 - github
+
+# [Afterword](../etc/afterword.md)
