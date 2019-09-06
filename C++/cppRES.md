@@ -14,7 +14,7 @@ proper practice will lead you to great developer skills.
       - [Templates](#templates)
       - [Concurrency](#concurrency)
     + [Advanced](#advanced)
-  * [Blogs/chanels/homepages](#blogschannelshomepages)
+  * [Blogs/channels/homepages](#blogschannelshomepages)
   * [Guidelines](#guidelines)
   * [Websites](#websites)
   * [Similar resources](#similar-resources)
@@ -27,7 +27,7 @@ part.
 ## Books
 - Head First C - David Griffiths and Dawn Griffiths
 
-    Perfect book for beginners, written in very easy-to-read and intersting maner.
+    Perfect book for beginners, written in very easy-to-read and interesting manner.
     
 - The C Programming Language - Brian Kernighan and Dennis Ritchie
 
@@ -42,8 +42,8 @@ part.
     
 - The C++ Programming Language - Bjarne Stroustrup
 
-    Complete C++ language reference and tutorial. This book will teach you how to use C++ features correctly, as inteded by
-    creator. Though it is very long to read, (around 13 hundreds of pages) it is very simply writen. During reading this 
+    Complete C++ language reference and tutorial. This book will teach you how to use C++ features correctly, as intended by
+    creator. Though it is very long to read, (around 13 hundreds of pages) it is very simply written. During reading this 
     book practice is welcomed and encouraged, since it is more of a reference.
 ### Intermediate
 All books of Scott Meyers are very useful in practice. He teaches that programming is about compromises, and that we must
