@@ -10,7 +10,7 @@ When comparing C++ and C, former is much safer than the later. C++ enables you t
 
 There are a lot of [paradigms](https://en.wikipedia.org/wiki/Programming_paradigm) of software development. The most wide known is [procedural](https://en.wikipedia.org/wiki/Procedural_programming), OOP, [functional](https://en.wikipedia.org/wiki/Functional_programming). C++ is multi-paradigm programming language, it uses [generic](https://en.wikipedia.org/wiki/Generic_programming), object-oriented, functional, procedural paradigms.
 
-As one bight mind of cppdev once said: 
+As one big mind of cppdev once said: 
 
 > The easiest way is to view C++ not as a single language but as a federation of related languages. Within a particular sublanguage, the rules tend to be simple, straightforward, and easy to remember.									
 >
@@ -53,7 +53,7 @@ As one bight mind of cppdev once said:
   
 - Painfully slow compilation
 
-    While optimizier does a big job, it costs in time of compilation.
+    While optimizer does a big job, it costs in time of compilation.
 
 ## C++ is used in
 
@@ -111,7 +111,7 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   - No true parallelism
   - Code should be intensively tested
       
-      It is a dynamically-typed language, which means that it allows a lot more scenarios to be interpreted without any
+      It is a dynamically typed language, which means that it allows a lot more scenarios to be interpreted without any
       errors, so you should write a lot of tests to assure yourself in right behavior of the program. 
   - Too opinionated for a general-purpose programming language
       
@@ -186,45 +186,21 @@ Here are suggestions of some PLs that are suitable choice as the first one:
   This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
   best to learn for beginners. For now just read [this](https://www.slant.co/options/112/~java-review).
 
-<!--- Uncomment this, delete what is written down here, if you want to edit this part
-  :heavy_plus_sign:
 
-  - p
-
-  :heavy_minus_sign:
-
-  - c
--->
 
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
   This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
   best to learn for beginners. For now just read [this](https://www.slant.co/options/111/~javascript-review).
 
-<!--- Uncomment this, delete what is written up here in this section, if you want to edit this part.
-  :heavy_plus_sign:
 
-  - p
-
-  :heavy_minus_sign:
-
-  - c
--->
 
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
   This part is about to be completed, since author don't have experience in this PL yet, but still considers it as one of the
   best to learn for beginners. For now just read [this](https://www.slant.co/options/115/~c-review).
   
-<!--- Uncomment this, delete what is written up here in this section, if you want to edit this part.
-  :heavy_plus_sign:
 
-  - p
-
-  :heavy_minus_sign:
-
-  - c
--->
   
 There are a lot of other programming languages for beginners, so you should check this links:
   - [index](https://www.tiobe.com/tiobe-index/) of programming languages by popularity
@@ -233,7 +209,7 @@ There are a lot of other programming languages for beginners, so you should chec
   learn first depending on community opinions
   
 # Okay! What's next?
-If you are sure about the choice of C++, then start reading books/tutorials and writing code. Create [pet projects](https://en.wiktionary.org/wiki/pet_project). But you should be aware of the fact, that for creating pet projects in C++, you should have good imgaination. 
+If you are sure about the choice of C++, then start reading books/tutorials and writing code. Create [pet projects](https://en.wiktionary.org/wiki/pet_project). But you should be aware of the fact, that for creating pet projects in C++, you should have good imagination. 
 
 This repo could provide you with books/tutorials.
 So continue reading, go to the [C++ resources](futurelink) section. 
