@@ -17,7 +17,7 @@ if [[ "$#" == "0" ]] || [[ "$#" > "2" ]]
 then
   # print error message
   echo "Wrong number of arguments, see \"--help\" for usage"
-  # and unsuccessfuly quit
+  # and unsuccessfully quit
   exit 1
 fi
 
@@ -57,7 +57,7 @@ then
     fname=${2%.*}
     rm "${fname}${machine_out_ending}" "${fname}${human_out_ending}" "${fname}" -f
   fi
-  # successfuly exit
+  # successfully exit
   exit 0
 fi
 

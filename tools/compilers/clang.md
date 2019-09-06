@@ -6,4 +6,4 @@ is a [compiler front end](https://en.wikipedia.org/wiki/Compiler#Fro) for the C,
 
 1. [Getting started](https://clang.llvm.org/get_started.html)
 2. User's [manual](https://clang.llvm.org/docs/UsersManual.html#convergent)(a bit complicated, but in detail)
-3. Command line argument [refernce](https://clang.llvm.org/docs/ClangCommandLineReference.html)
+3. Command line argument [reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
