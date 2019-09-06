@@ -1,6 +1,5 @@
 # List
-This is the list of programs and tools for C++ development, 
-that i've found useful.
+This is the list of programs and tools for C++ development, that is useful to work with.
 
 ## Build
 
@@ -37,6 +36,7 @@ that i've found useful.
 
 ### [Preface](editors-ides/README.md)
 
+- Atom
 - CLion
 - QT creator
 - [Sublime Text](editors-ides/sublime.md) :white_check_mark:
@@ -57,6 +57,13 @@ that i've found useful.
 
 - [doxygen](docs/doxygen.md) :white_check_mark: 
 
+## Collaborative development
+
+### [Preface](collab/README.md)
+
+- git
+- github
+
 ## Etc
 
 ### [Preface](etc/README.md)
@@ -69,7 +76,5 @@ that i've found useful.
 - perf
 - strace
 - some of CI
-- git
-- github
 
 # [Afterword](../etc/afterword.md)
