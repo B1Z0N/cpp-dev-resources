@@ -13,6 +13,7 @@ proper practice will lead you to great developer skills.
     + [Specific topics](#specific-topics)
       - [Templates](#templates)
       - [Concurrency](#concurrency)
+      - [Testing](#testing)
     + [Advanced](#advanced)
   * [Blogs/channels/homepages](#blogschannelshomepages)
   * [Guidelines](#guidelines)
@@ -61,6 +62,8 @@ Modern C++ is generic C++. So here is the good book about template programming:
 - C++ Templates: The Complete Guide - David Vandevoorde and Nicolai M. Josuttis
 #### Concurrency
 - C++ Concurrency in Action - Anthony Williams
+#### Testing
+- Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better - Jeff Langr
 ### Advanced
 When I become an advanced programmer, I'll complete this part.
 ## Blogs/channels/homepages
