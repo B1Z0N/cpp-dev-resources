@@ -49,7 +49,7 @@ This is the list of programs and tools for C++ development, that is useful to wo
 ### [Preface](testing/README.md)
 
 - catch
-- Google Test
+- [Google Test](testing/gtest.md)
 
 ## Docs
 
