@@ -18,15 +18,15 @@ This repository is intended to cover:
 
 **ALMOST ALL OF THE RESOURCES WAS CONTRIBUTED TO/READ/TESTED BY MAINTAINERS(OR BY CONTRIBUTORS) OF THIS REPO**
 
-1. If you are a **beginner** in programming, or **in doubt** about learning C++, check [this](C++/ABOUTcpp.md) out.
+1. If you are a **beginner** in programming, or **in doubt** about learning C++, check [this](docs/C++/ABOUTcpp.md) out.
 
-2. If you just want to learn from masters, then [here](C++/cppRES.md) are **THE LIST OF C++ RESOURCES**.
+2. If you just want to learn from masters, then [here](docs/C++/cppRES.md) are **THE LIST OF C++ RESOURCES**.
 
-3. If you want to have some practice, [here is](C++/cppREPOS.md) the list of repos to contribute to. You can start contributing from now, or after learning C++ tools in the next item.
+3. If you want to have some practice, [here is](docs/C++/cppREPOS.md) the list of repos to contribute to. You can start contributing from now, or after learning C++ tools in the next item.
 
-4. And finally, if you have some background in cppdev and you want to enhance the ability to organize your project, speed up development, learn best development process practices. You should definitely look in [here](tools/README.md), because this is **THE LIST OF USEFUL C++ TOOLS RESOURCES**.
+4. And finally, if you have some background in cppdev and you want to enhance the ability to organize your project, speed up development, learn best development process practices. You should definitely look in [here](docs/tools/README.md), because this is **THE LIST OF USEFUL C++ TOOLS RESOURCES**.
 
-5. [Afterword](etc/afterword.md)
+5. [Afterword](docs/etc/afterword.md)
 -------
 ## Want to add something?
 1. Read the [**contribution guidelines**][contrib-guide]
