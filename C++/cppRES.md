@@ -19,7 +19,6 @@ proper practice will lead you to great developer skills.
   * [Guidelines](#guidelines)
   * [Websites](#websites)
   * [Similar resources](#similar-resources)
-- [Reading others code](#repositories)
 - [Okay! What's next?](#okay-whats-next)
     
 # C
