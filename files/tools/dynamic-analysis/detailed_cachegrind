@@ -1,0 +1,73 @@
+#!/usr/bin/env bash
+#
+# script to generate detailed cache profiling of a C++ executable
+#
+
+# some settings for debugging purposes
+# so called "strict bash"
+set -euo pipefail
+IFS=$'\n\t'
+
+# constants for different output files endings
+machine_out_ending=_out.txt
+human_out_ending=_annotate.txt
+
+# if number of arguments is 0 or more then 1
+if [[ "$#" == "0" ]] || [[ "$#" > "2" ]]
+then
+  # print error message
+  echo "Wrong number of arguments, see \"--help\" for usage"
+  # and unsuccessfully quit
+  exit 1
+fi
+
+# print help, read this echo's as the documentation
+if [[ "$1" == "--help" ]] || [[ "$1" == "-h" ]]
+then
+  echo "detailed-cachegrind - generate detailed cache profiling of a C++ executable"
+  echo 
+  echo "USAGE"
+  echo
+  echo "help : detailed_cachegrind -h"
+  echo "    or detailed_cachegrind --help"
+  echo "generating files to \"fname.cpp\" : detailed_cachegrind fname.cpp"
+  echo "    (fname${machine_out_ending} and fname${human_out_ending} will be generated, first is "
+  echo "    the most detailed and second is line by line summary)"
+  echo "remove generated with fname files : detailed_cachegrind -c fname"
+  echo "    or detailed_cachegrind --clean fname"
+  echo "remove all generated files to any C++ file : detailed_cachegrind -c"
+  echo "    or detailed_cachegrind --clean"
+  echo "    (just removes all files ending with ${machine_out_ending} or ${human_out_ending})"
+
+  # successful exit
+  exit 0
+fi
+
+# clean all files generated
+if [[ "$1" == "--clean" ]] || [[ "$1" == "-c" ]]
+then
+  # if it is just "--clean" and no other commands after
+  if [[ "$#" < "2" ]]
+  then
+    # then delete all available generated files
+    rm *${machine_out_ending} *${human_out_ending} -f
+  # if the filename is supplied
+  else
+    # then delete all generated files for this filename 
+    fname=${2%.*}
+    rm "${fname}${machine_out_ending}" "${fname}${human_out_ending}" "${fname}" -f
+  fi
+  # successfully exit
+  exit 0
+fi
+
+# get filename with and without extension(.c or .cpp ...) from 1st argument
+fname=$1
+fname_without_suffix=${fname%.*}
+
+# compile file with debugging info
+g++ -g ${fname} -o ${fname_without_suffix}
+# generate full-detail file, aimed at being read by experts or machine
+valgrind --tool=cachegrind --cachegrind-out-file="${fname_without_suffix}${machine_out_ending}" -q "./${fname_without_suffix}"
+# generate cache use analysis file, readable by human
+cg_annotate "${fname_without_suffix}${machine_out_ending}" "$(readlink -f ${fname})" > "${fname_without_suffix}${human_out_ending}"
