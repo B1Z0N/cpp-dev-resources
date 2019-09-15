@@ -48,7 +48,7 @@ This is the list of programs and tools for C++ development, that is useful to wo
 
 ### [Preface](testing/README.md)
 
-- catch
+- [catch2](testing/catch2.md) :white_check_mark:
 - [Google Test](testing/gtest.md)
 
 ## Docs
