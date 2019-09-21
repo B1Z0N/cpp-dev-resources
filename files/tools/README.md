@@ -57,12 +57,12 @@ This is the list of programs and tools for C++ development, that is useful to wo
 
 - [doxygen](docs/doxygen.md) :white_check_mark: 
 
-## Collaborative development
+## Collaborative work
 
-### [Preface](collab/README.md)
+### [Preface](collaborative-work/README.md)
 
-- git
-- github
+- [git](collaborative-work/git.md)
+- [github](collaborative-work/github.md)
 
 ## Etc
 
